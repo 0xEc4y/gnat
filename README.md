@@ -35,5 +35,6 @@ Compile the source file:
 ```
 Run the executable with the file you want to read:
 ```bash
+  ./gnat example.txt
   ./gnat MY_FAVORITE_FILE.txt
 ```
