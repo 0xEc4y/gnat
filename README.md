@@ -20,7 +20,7 @@ If you have any suggestions on improvement, PRs and PM/Email are strongly welcom
 - Add help menu.
 - Return stdin if 0 command line paramaters.
 - Add **Options** (Numbered output, Limit output amount, Suppress empty output lines).
-- Optimize
+- Optimize.
 
 
 ## Installation & Usage
