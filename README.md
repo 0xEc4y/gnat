@@ -38,5 +38,4 @@ Run the executable with the file you want to read:
   ./gnat example.txt
   ./gnat ~/path/to/MY_FAVORITE_FILE.txt
 ```
-## License
-[GPL v3](https://www.gnu.org/licenses/quick-guide-gplv3.html)
+## License - [GPL v3](https://www.gnu.org/licenses/quick-guide-gplv3.html)
