@@ -25,7 +25,7 @@ If you have any suggestions on improvement, PRs and PM/Email are strongly welcom
 
 ## Installation & Usage
 
-Ensure you have [git](https://github.com/git-guides/install-git) installed.
+Ensure you have [git](https://github.com/git-guides/install-git) and [nim](https://nim-lang.org/install.html) installed.
 
 [Clone this repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to your local machine.
 
