@@ -29,7 +29,7 @@ Ensure you have [git](https://github.com/git-guides/install-git) installed.
 
 [Clone this repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to your local machine.
 
-Compile the source file:
+(c)ompile and (-r)un the source file:
 ```nim
     nim c -r gnat.nim
 ```
