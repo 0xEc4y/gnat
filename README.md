@@ -11,6 +11,7 @@ If you have any suggestions on improvement, PRs and PM/Email are strongly welcom
 ## Current Features
 
 - Read contents of file and display in standard output.
+- Return stdin if no input file was passed
 - Handling **CTRL+C**
 - Handling any **IO-Error** or **OS-Error**
 - Parse command line paramaters.
@@ -18,7 +19,6 @@ If you have any suggestions on improvement, PRs and PM/Email are strongly welcom
 
 - Allow for concatenation of files.
 - Add help menu.
-- Return stdin if 0 command line paramaters.
 - Add **Options** (Numbered output, Limit output amount, Suppress empty output lines).
 - Optimize.
 
